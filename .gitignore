@@ -16,3 +16,9 @@ __pycache__/
 /.next/
 /out/
 *.tmp
+mihomo.log
+tmp_dirs.txt
+.pi/
+.studio/
+tools/_*.py
+*.log  
